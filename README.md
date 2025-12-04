@@ -3,13 +3,14 @@
 
 🎯 Aspiring Data Analyst  
 📊 Skilled in Excel, SQL, Python, and Power BI  
+📊 Passionate about turning data into insights
 🎓 Background in English Education | Transitioning into Data Science  
 🌍 Based in Nigeria | Open to global opportunities
 
 ---
 
 ## 🔧 Skills
-- Excel (Pivot tables, dashboards)
+- Excel (Data cleaning,Pivot tables, dashboards)
 - SQL (MySQL, data querying)
 - Python (Pandas, NumPy)
 - Power BI (DAX, visualizations)
