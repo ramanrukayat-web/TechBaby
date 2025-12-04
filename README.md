@@ -18,11 +18,10 @@
 ---
 
 ## 📁 Projects
-- 📊 Sales Data Analysis Dashboard (Power BI)
-- 🧮 Student Performance Analysis (Excel)
-- 🗃 MySQL Customer Database Project
+- 📊 [Sales Data Analysis Dashboard (Power BI)](https://github.com/ramanrukayat/powerbi-sales-dashboard)
+- 📈 [Student Performance Analysis (Excel)](https://github.com/ramanrukayat/excel-student-performance)
+- 🗃 [MySQL Customer Database Project](https://github.com/ramanrukayat/mysql-customer-database)
 
-(I will upload projects soon)
 
 ---
 
